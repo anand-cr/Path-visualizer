@@ -1,5 +1,13 @@
 # Path-visualizer
 
+## Demo
+
+
+
+https://user-images.githubusercontent.com/47849576/131760082-7fc38040-5d29-4e8d-a120-e756ea8e2f03.mp4
+
+
+
 ## A* Algorithm 
 
 A* algorithm is used in many real life sitiuations to find the shortest path where there could be many hindrances.Unlike many other algorithms it smarter which distinquishes it from other conventional path finding algorithms
@@ -195,6 +203,11 @@ def algorithm(draw, grid, start, end):
     return False
  
  ```
+
+
+
+
+
 
 
 
